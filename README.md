@@ -3,6 +3,7 @@
 Welcome to the **Unity Space Shooter** project! This is a classic arcade-style space shooter game built using the Unity game engine. The project is designed to demonstrate foundational Unity skills, including game mechanics, physics, and UI development.
 
 ---
+![Unity-space-shooter](https://github.com/user-attachments/assets/50b8515f-c122-4dc7-a5cf-af4cd9e57677)
 
 ## Table of Contents
 
